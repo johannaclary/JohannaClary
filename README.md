@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Johanna
 
-I’m a GTM leader working at the intersection of AI, SaaS, and developer-facing products.
+I’m a GTM, Sales and Customer Success leader working at the intersection of AI, SaaS, and developer-facing products.
 
 I work closely with engineers and product teams to:
 - translate complex AI capabilities into real customer value
