@@ -1,40 +1,30 @@
-## 👋 Hi, I’m Johanna
+👋 Hi, I’m Johanna  
 
-I’m a GTM, Sales and Customer Success leader working at the intersection of AI, SaaS, and developer-facing products.
+I’m a GTM and Customer Success leader working at the intersection of AI, SaaS, and enterprise adoption.
 
-I work closely with engineers and product teams to:
-- translate complex AI capabilities into real customer value
-- design sales, onboarding, adoption, and expansion workflows
-- prototype and test ideas using AI-first tooling
+I work closely with product and engineering teams to translate technical capabilities into real customer outcomes — designing onboarding, adoption, and expansion workflows that drive usage and growth.
 
-### How I use GitHub
-This space is for lightweight experiments, learning, and prototyping — not production code.
+## How I use GitHub
 
-Typical use cases:
-- exploring APIs and developer workflows
-- testing AI / LLM-driven automations
-- small scripts or notebooks to support GTM, CS, or customer enablement
-- experimenting with no-code + code hybrids
+This space is for lightweight experiments and prototypes exploring how AI can be applied in practical, business-relevant contexts.
 
-### Tech I’m comfortable working around
-- AI APIs & developer platforms
-- LLM-based workflows (prompting, evaluation, automation)
-- Python (applied with AI assistance)
-- SaaS tooling, data flows, and integrations
+Typical areas I explore:
+- AI-driven customer success and sales workflows  
+- LLM-based automation and agent use cases  
+- APIs, developer tools, and data integrations  
+- No-code / code hybrids to test ideas quickly  
 
-I care about building AI products that are usable, reliable, and create real impact for customers.
+## Background
 
-<!--
-**johannaclary/JohannaClary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My experience spans scaling enterprise growth at companies like Figma, as well as working hands-on with early-stage AI startups on GTM and customer adoption.
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI APIs & developer platforms  
+- LLM workflows (prompting, evaluation, automation)  
+- Python (applied with AI assistance)  
+- SaaS tooling, data flows, and integrations  
+
+---
+
+I’m particularly interested in how AI moves from experimentation into real-world usage — where it becomes embedded in workflows and drives measurable impact.
