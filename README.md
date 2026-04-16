@@ -1,6 +1,6 @@
 👋 Hi, I’m Johanna  
 
-I’m a GTM and Customer Success leader working at the intersection of AI, SaaS, and enterprise adoption.
+I’m a GTM, Sales and Customer Success leader working at the intersection of AI, SaaS, and enterprise adoption.
 
 I work closely with product and engineering teams to translate technical capabilities into real customer outcomes — designing onboarding, adoption, and expansion workflows that drive usage and growth.
 
